@@ -8,7 +8,7 @@ The React Personal Portfolio is a dynamic and interactive web application design
 ## Table of Contents:
 
 - [Overview](#Overview)
-- [The Challenge](#The-Challenge)
+- [The Challenge](#Challenge)
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [GIF](#GIF)
