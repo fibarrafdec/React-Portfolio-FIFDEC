@@ -21,11 +21,17 @@ const AboutMe = () => {
   };
 
   const paragraphStyles = {
+    color: 'beige',
+    backgroundColor: '#1c77ac',
     fontSize: '18px',
     lineHeight: '1.5',
     marginBottom: '90px',
     marginLeft: '100px',
     marginRight: '100px', 
+    padding: '30px',
+    margin: '30px',
+    borderRadius: '30px',
+    boxShadow: 'rgba(0, 0, 0, 0.35) 0px 5px 15px',
   };
 
   return (
