@@ -16,7 +16,6 @@ The React Personal Portfolio is a dynamic and interactive web application design
 - [Usage Instructions](#Usage-Instructions)
 - [Technologies Used](#Technologies-Used)
 - [Deployed Application Link](#Deployed-Application-Link)
-- [Video Location](#Video-Location)
 - [Screenshots](#Screenshots)
 - [Test](#Test)
 - [Questions](#Questions)
