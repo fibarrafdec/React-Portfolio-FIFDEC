@@ -1,0 +1,37 @@
+/* Navigation.css */
+* {
+  background-color: #1c77ac;
+  color: beige;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column; /* Display links in a column */
+  align-items: center; /* Center items horizontally */
+}
+
+.Link {
+  width: 100px;
+  height: 20px;
+  padding: 10px 20px;
+  background-color: #1c77ac;
+  color: #edf7f6;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 5px;
+  text-decoration: none;
+}
+
+.Link:hover {
+  background-color: #076094;
+}
+
+@media screen and (max-width: 600px) {
+  nav {
+    align-items: flex-start; /* Align items to the start for smaller screens */
+  }
+}
